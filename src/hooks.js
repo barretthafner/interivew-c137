@@ -13,7 +13,6 @@ const fetchLocationsPage = async (page = 1) => {
   const res = await fetch(
     `https://rickandmortyapi.com/api/location?page=${page}`
   );
-  await (async () => setTimeout(Promise.resolve, 2000))();
   return res.json();
 };
 

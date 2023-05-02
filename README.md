@@ -1,6 +1,6 @@
 # Rick and Morty Locations
 
-For this challenge, we'll be creating a simle chart using the [Recharts](https://recharts.org/en-US/examples/SimpleBarChart)
+For this challenge, we'll be creating a simple chart using the [Recharts](https://recharts.org/en-US/examples/SimpleBarChart)
 charting library to display a count of the different `type` of locations found in the Rick and Morty universe.
 
 To do this, we'll be using the [Rick and Morty API](https://rickandmortyapi.com/), and specifically
